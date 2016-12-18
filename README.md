@@ -3,27 +3,15 @@ AquaMeria社のコーディングガイドライン
 
 ---
 
-## 検証・対応ブラウザ
-||Windows|Mac|スマートフォン・タブレット|
+## 検証・対応ブラウザ  
+|| *Windows* | *Mac* | *スマートフォン・タブレット* |
+|:----- |:-----:|:-----:|:-----:|
 |InternetExplorer 11|○|×|×|
 |Safari 最新版|×|○|○|
 |GoogleChrome 最新版|○|○|○|
 |Firefox 最新版|○|○|×|
 |iOS 10~|×|×|○|
-|AndroidOS 5.0~|×|×|○|
-
-
-### Windows  
- * InternetExplorer 11  
- * GoogleChrome 最新版  
- * Firefox 最新版  
-### Mac  
- * Safari 最新版  
- * GoogleChrome 最新版  
- * Firefox 最新版  
-### スマートフォン・タブレット  
- * iOS 10  
- * AndroidOS 5.0~  
+|AndroidOS 5.0~|×|×|○|  
  
 ## ディレクトリ構造  
  ルート  
