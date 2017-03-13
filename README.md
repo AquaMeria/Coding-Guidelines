@@ -1,8 +1,8 @@
 # FrameWork based BootStrap
 
 
-## 本フレームワークについて
-BootStrapをベースにしたフレームワーク。
+## 本フレームワークについて  
+BootStrapをベースにしたフレームワーク。  
 
 
 
@@ -55,16 +55,16 @@ BootStrapをベースにしたフレームワーク。
  * ファイル名はページの内容に適しているものを使用
 
 ### 画像  
- * 画像名は「セクション名_コンポーネント名_状態」
- > (例)sidebar_popularArticle_hover.png
+ * 画像名は「セクション名_コンポーネント名_状態」  
+ > (例)sidebar_popularArticle_hover.png  
 
 
 
-## 言語別記述ルール
+## 言語別記述ルール  
 
 ### HTML  
- * HTMLのマークアップは原則HTML5を用いる
- > 具体的なタグは[HTML5リファレンス](http://www.htmq.com/html5/)を参考にする
+ * HTMLのマークアップは原則HTML5を用いる  
+ > 具体的なタグは[HTML5リファレンス](http://www.htmq.com/html5/)を参考にする  
 
 ### CSS  
  * CSSはheadタグ内で読み込む
