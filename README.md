@@ -56,7 +56,8 @@ BootStrapをベースにしたフレームワーク。
 
 ### 画像  
  * 画像名は「セクション名_コンポーネント名_状態」  
- > (例)sidebar_popularArticle_hover.png  
+ 
+ > (例)sidebar_popularArticle.png  
 
 
 
@@ -64,6 +65,7 @@ BootStrapをベースにしたフレームワーク。
 
 ### HTML  
  * HTMLのマークアップは原則HTML5を用いる  
+
  > 具体的なタグは[HTML5リファレンス](http://www.htmq.com/html5/)を参考にする  
 
 ### CSS  
