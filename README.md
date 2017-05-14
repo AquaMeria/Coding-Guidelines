@@ -7,18 +7,20 @@ BootStrapをベースにしたフレームワーク。
 
 
 ## 対応ブラウザ  
-| **Windows** | **Mac** | **スマートフォン・タブレット** |  
-|:----- |:-----:|:-----:|:-----:|  
-|InternetExplorer 11|○|×|×|  
-|Safari 最新版|×|○|○|  
-|GoogleChrome 最新版|○|○|○|  
-|Firefox 最新版|○|○|×|  
-|iOS 10~|×|×|○|  
-|AndroidOS 5.0~|×|×|○|    
+|| **Windows** | **Mac** | **スマートフォン・タブレット** |
+|:----- |:-----:|:-----:|:-----:|
+|InternetExplorer 11|○|×|×|
+|Safari 最新版|×|○|○|
+|GoogleChrome 最新版|○|○|○|
+|Firefox 最新版|○|○|×|
+|iOS 10~|×|×|○|
+|AndroidOS 5.0~|×|×|○|   
  
  
  
-## ディレクトリ構造  
+## ディレクトリ構造
+
+```html
  ルート  
 　├ [css] … サイトで使われるCSSファイルを全て格納する  
 　│　├ bootstrap.min.css … Bootstrapの標準CSS  
@@ -41,7 +43,7 @@ BootStrapをベースにしたフレームワーク。
 　│　└ [js] …  JSのプラグイン  
 　│   
 　└ index.html  
- 
+ ```
  
  
 ## 命名規則
