@@ -23,7 +23,6 @@ BootStrapをベースにしたフレームワーク。
 ```html
  ルート  
 　├ [css] … サイトで使われるCSSファイルを全て格納する  
-　│　├ bootstrap.min.css … Bootstrapの標準CSS  
 　│　├ common.css … 共通パーウで使用するCSS(グロナビetc)  
 　│　├ module.css … 全ページで共通で使用するパーツCSS(ボタンetc)   
 　│　└ pagename.css …  各ページでのみ使用するCSS  
@@ -37,10 +36,13 @@ BootStrapをベースにしたフレームワーク。
 　│　├ common.js … 共通パーツで使用するJS(グロナビetc)  
 　│　├ module.js … 全ページで共通で使用するパーツJS(ボタンetc)   
 　│　└ pagename.js …  各ページでのみ使用するJS  
+　│ 
+　├ [framework] … サイトで使用したフレームワーク(bootstrap)のファイルを格納 
+　│  ├ bootstrap.min.css … Bootstrapの標準CSS    
+　│  └ bootstrap.min.js … Bootstrapの標準JS
 　│    
-　├ [plugin] … サイトで使われるプラグインを全て格納する  
-　│　├ [css] … CSSのプラグイン  
-　│　└ [js] …  JSのプラグイン  
+　├ [plugin] … サイトで使われるプラグインを全て格納する   
+　│　└ [directory] …  各プラグイン  
 　│   
 　└ index.html  
  ```
